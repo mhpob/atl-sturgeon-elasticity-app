@@ -96,7 +96,10 @@ ui <- fluidPage(
         tags$figcaption("Assembled Atlantic sturgeon vital rates")
       )
     )
-  )
+  ),
+  hr(),
+  print('v0.1.0'),
+  tags$a(href="https://github.com/mhpob/atl-sturgeon-elasticity-app", "View source code and other releases here.")
 )
 
 # Define server logic required to draw a histogram
