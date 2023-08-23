@@ -1,0 +1,12 @@
+name: atl-sturgeon-elasticity
+title: atl-sturgeon-elasticity
+username: mhpob
+account: mhpob
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9665289
+bundleId: 7601995
+url: https://mhpob.shinyapps.io/atl-sturgeon-elasticity/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
